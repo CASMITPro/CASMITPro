@@ -1,5 +1,5 @@
-![Banner CASMITPro2](https://github.com/user-attachments/assets/97e681af-086b-4079-a2e3-d064fd861e76)
 ## 👋 Hola, soy CASMITPro
+![Banner CASMITPro2](https://github.com/user-attachments/assets/97e681af-086b-4079-a2e3-d064fd861e76)
 Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración. Comparto conocimiento práctico basado en escenarios reales, laboratorios y configuraciones utilizadas en entornos empresariales.
 
 📡 Enfoque principal
