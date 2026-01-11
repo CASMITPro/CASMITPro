@@ -5,7 +5,7 @@ Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes 
 📡 Enfoque principal
 Este GitHub está dedicado a:
 * Redes y telecomunicaciones (Routing & Switching, VLAN, vPC, VXLAN, QoS, CoPP).
-* Infraestructura Cisco (Catalyst, Nexus, CUCM, Unity Connection, SIP Trunk). <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+* Infraestructura Cisco (Catalyst, Nexus, CUCM, Unity Connection, SIP Trunk). <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 * Laboratorios virtuales con PNETLab / EVE-NG para práctica y formación técnica.
 * VPN y conectividad segura (WireGuard, acceso remoto, túneles).
 * Docker y servicios de laboratorio para HomeLab y entornos de prueba.
