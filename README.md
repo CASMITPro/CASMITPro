@@ -1,3 +1,5 @@
+<img width="1920" height="846" alt="image" src="https://github.com/user-attachments/assets/ff9d7ada-070a-4990-92f6-e9167f7d892b" />
+
 ## 👋 Hola, soy CASMITPro
 Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración. Comparto conocimiento práctico basado en escenarios reales, laboratorios y configuraciones utilizadas en entornos empresariales.
 
