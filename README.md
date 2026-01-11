@@ -5,7 +5,7 @@ Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes 
 📡 Enfoque principal
 Este GitHub está dedicado a:
 * Redes y telecomunicaciones (Routing & Switching, VLAN, vPC, VXLAN, QoS, CoPP).
-* Infraestructura Cisco (Catalyst, Nexus, CUCM, Unity Connection, SIP Trunk).
+* Infraestructura Cisco (Catalyst, Nexus, CUCM, Unity Connection, SIP Trunk). <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 * Laboratorios virtuales con PNETLab / EVE-NG para práctica y formación técnica.
 * VPN y conectividad segura (WireGuard, acceso remoto, túneles).
 * Docker y servicios de laboratorio para HomeLab y entornos de prueba.
@@ -24,7 +24,7 @@ Este GitHub acompaña el contenido publicado en mi canal de YouTube, donde expli
 
 🚀 Aprender redes es practicar todos los días.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 <!--
 **CASMITPro/CASMITPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
