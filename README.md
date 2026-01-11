@@ -24,14 +24,7 @@ Este GitHub acompaña el contenido publicado en mi canal de YouTube, donde expli
 
 🚀 Aprender redes es practicar todos los días.
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/CASMITPro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <!--
 **CASMITPro/CASMITPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
