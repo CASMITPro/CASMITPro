@@ -24,8 +24,6 @@ Este GitHub acompaña el contenido publicado en mi canal de YouTube, donde expli
 
 🚀 Aprender redes es practicar todos los días.
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **CASMITPro/CASMITPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
