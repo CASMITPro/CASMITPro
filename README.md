@@ -1,6 +1,4 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
-
-## 👋 Hola, soy CASMITPro
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hola, soy CASMITPro
 ![Banner CASMITPro2](https://github.com/user-attachments/assets/97e681af-086b-4079-a2e3-d064fd861e76)
 Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración. Comparto conocimiento práctico basado en escenarios reales, laboratorios y configuraciones utilizadas en entornos empresariales.
 
