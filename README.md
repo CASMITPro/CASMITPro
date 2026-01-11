@@ -42,7 +42,9 @@ Este GitHub acompaña el contenido publicado en mi canal de YouTube, donde expli
         <br>
         <p>
             <strong>
-                Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración. Comparto conocimiento práctico basado en escenarios reales, laboratorios y configuraciones utilizadas en entornos empresariales.
+                Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración.<br><br>
+                Comparto conocimiento práctico basado en escenarios reales, <br><br>
+                laboratorios y configuraciones utilizadas en entornos empresariales.<br><br>
             </strong>
         </p>
         <ul>
