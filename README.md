@@ -15,8 +15,6 @@
   </a> &nbsp;&nbsp;
 <p> 
 
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40CASMITPro1?style=flat)
-
 👨‍💻 Ingeniero y creador de contenido en telecomunicaciones y redes.
 Comparto laboratorios, configuraciones reales y documentación práctica sobre redes, infraestructura Cisco, VPN, Docker y HomeLab.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
