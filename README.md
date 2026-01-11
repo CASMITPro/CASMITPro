@@ -1,13 +1,5 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hola, soy CASMITPro
 ![Banner CASMITPro2](https://github.com/user-attachments/assets/97e681af-086b-4079-a2e3-d064fd861e76)
-<!--icons and links-->
-<p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<!--profile visit count-->
 Ingeniero y creador de contenido técnico enfocado en telecomunicaciones, redes y colaboración. Comparto conocimiento práctico basado en escenarios reales, laboratorios y configuraciones utilizadas en entornos empresariales.
 
 📡 Enfoque principal
