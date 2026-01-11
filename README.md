@@ -18,6 +18,12 @@
   </a> &nbsp;&nbsp;
 <p> 
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807715949075980308/widget.png?style=shield)
+
+
 👨‍💻 Ingeniero y creador de contenido en telecomunicaciones y redes.
 Comparto laboratorios, configuraciones reales y documentación práctica sobre redes, infraestructura Cisco, VPN, Docker y HomeLab.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
