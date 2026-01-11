@@ -14,6 +14,9 @@
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
+
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40CASMITPro1?style=flat)
+
 👨‍💻 Ingeniero y creador de contenido en telecomunicaciones y redes.
 Comparto laboratorios, configuraciones reales y documentación práctica sobre redes, infraestructura Cisco, VPN, Docker y HomeLab.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
