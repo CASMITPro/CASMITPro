@@ -14,3 +14,5 @@ Facilitar el aprendizaje de telecomunicaciones de forma práctica, estructurada 
 Este GitHub acompaña el contenido publicado en mi canal de YouTube, donde explico paso a paso topologías, configuraciones, errores comunes y buenas prácticas en telecomunicaciones.
 
 🚀 Aprender redes es practicar todos los días.
+
+
